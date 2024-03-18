@@ -8,7 +8,7 @@
  body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url(books-5937823_1920.jpg);/* Replace 'background-image.jpg' with the path to your image */
+    background-image: url(coffee-6632524_1920.jpg);/* Replace 'background-image.jpg' with the path to your image */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -65,23 +65,23 @@
 
   .content {
     margin-top: 50px; /* Adjust according to the height of the navigation bar */
-    color: #000000;
+    color: #fff;
     text-align: center;
     padding: 20px;
   }
   .content p{
     font-weight: bold;
-    color: black;
+    color: #fff;
   }
 
   .help {
     font-weight: bold;
-    color: #000000;
+    color: #fff;
     text-align: center;
   }
 
   .help h1 {
-    color: #000;
+    color: #fff;
     font-weight: bold;
   }
 
@@ -100,8 +100,8 @@
 <nav id="navbar">
 <ul>
     <li><a href="#home" class="highlighted">Home</a></li>
+    <li><a href="#shop">Shop</a></li>
     <li><a href="#about">About</a></li>
-    <li><a href="#services">Services</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
 </nav>
@@ -129,10 +129,10 @@
      ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
     Duis aute irure dolor in reprehenderit in voluptate <br>
     velit esse cillum dolore eu fugiat nulla pariatur. </p>
-  <p><a href="#services">Go to Services</a></p>
+  <p><a href="#shop">Go to Shop</a></p>
 </div>
 
-<div id="services" class="content">
+<div id="Shop" class="content">
   <h1>Our Services</h1>
   <p>Duis aute irure dolor in reprehenderit in voluptate<br> 
     velit esse cillum dolore eu fugiat nulla pariatur.<br> 
